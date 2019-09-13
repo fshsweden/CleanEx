@@ -1,25 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Really nice HTML template packaged in a Rails application
 
-Things you may want to cover:
+Suitable for a company presentation site. Financial/Exchange background pictures.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # CleanEx
